@@ -2,7 +2,7 @@
 Firmware and software for re flashing BW02 module
 
 
-**[u]Overview:[/u]** 
+Overview:
 OS known to work: Windows 10 
 Micro USB
 
@@ -15,10 +15,8 @@ Files got from:
 https://app.eco-worthy.com:7778/digitizer/
 
 Might get some more firmware if you search the site for other links apart from "digitizer"? 
-![518Aj6WPVSL|500x500, 50%](upload://lbD5FHL2pDvDIfYcZXDDhrBuAEj.jpeg)
-![Screenshot 2025-07-15 142103|690x428, 50%](upload://lzLSO7MnNEOUHSKHAsuDedAJumy.png)
 
-**[u]Key words:[/u]**
+Key words:
 Eco-worthy BW02 
 BW02 firmware 
 BW02 Problems 
